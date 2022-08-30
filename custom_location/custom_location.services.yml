@@ -1,0 +1,4 @@
+services:
+  custom_location.find_location:
+    class: Drupal\custom_location\CustomLocation
+    arguments: []

@@ -1,0 +1,4 @@
+custom_location.admin_settings:
+  title: 'Location admin configuration'
+  parent: system.admin
+  route_name: custom_location.admin_settings
